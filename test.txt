@@ -1,2 +1,0 @@
-Hello everyone
-I am editing using Vim
